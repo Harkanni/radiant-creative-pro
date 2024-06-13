@@ -1,4 +1,4 @@
 # RADIANT UI
-[demo-image](./radiant.tailus.io/assets/header-ss.png)
-[demo-image](./radiant.tailus.io/assets/header-ss.png)
-[demo-image](./radiant.tailus.io/assets/header-ss.png)
+[demo-image](./assets/radiant.webp)
+[demo-image](./assets/body-ss.png)
+[demo-image](./assets/footer-ss.png)
